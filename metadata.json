@@ -1,0 +1,6 @@
+{
+  "name": "AgriOS — Precision Agriculture Platform",
+  "description": "Satellite crop monitoring, automatic field boundaries, variable-rate prescriptions, and AI agronomy built for modern farming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
